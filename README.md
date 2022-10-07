@@ -1,5 +1,5 @@
-# Dissertacao
-## Dissertação - Desenvolvimento de Jogos educativos em AR no âmbito do projeto EduCITY
+# Dissertação - Desenvolvimento de Jogos educativos em AR no âmbito do projeto EduCITY
+## 
 ### Diário de trabalho:
 <b>Semana 26/09 - 02/10</b>
 - Objetivo: Deixar praticamente o tutorial de 18h feito!
