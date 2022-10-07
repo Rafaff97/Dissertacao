@@ -1,6 +1,16 @@
 # Dissertacao
 ## Dissertação - Desenvolvimento de Jogos educativos em AR no âmbito do projeto EduCITY
 ### Diário de trabalho:
+- Static Information:
+  - Bus and subway routes;
+  - Bus and subway stops;
+  - Parking lots;
+- Real-time information:
+  - Capacity of the parking lots;
+  - Arrival forecasts for buses and metros;
+  - Bus and subway positions;
+
+
   <b>Semana 26/09 - 02/10</b>
     - Objetivo: Deixar praticamente o tutorial de 18h feito!
     - Tutorial: https://www.udemy.com/course/develop-augmented-reality-book-ar-business-card-with-unity/
