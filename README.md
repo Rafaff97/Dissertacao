@@ -2,7 +2,7 @@
 ## 
 ### Diário de trabalho:
 <b>Semana 26/09 - 02/10</b>
-- Objetivo: Deixar praticamente o tutorial de 18h feito!
+- Objetivo: Fazer o tutorial de 18h sobre Unity+vuforia
 - Tutorial: https://www.udemy.com/course/develop-augmented-reality-book-ar-business-card-with-unity/
   - 28/09 - Tutorial
   - 29/09 - Tutorial
