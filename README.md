@@ -26,7 +26,7 @@
   - 07/10 - Reunião com os bolseiros do projeto EduCity para discussão de possíveis recursos a integrar na app + Tutorial
 - Final: Primeiro tutorial finalziado!
    
-<b> Semana 10/10 - 16/10</b>
+<b> Semana 10/10 - 16/10 </b>
 - Objetivo: Implementar o GPS e estudar ARCore
 - Tutorial: https://www.coursera.org/learn/ar
 - Tutorial: https://www.udemy.com/course/augmented_reality_with_unity/
@@ -36,27 +36,26 @@
   - 14/10 - Reunião e foi possivel verificar que o segundo tutorial é bastante inutil. Visualização de videos sobre como implementar um mapa no unity.
 - Final: Foi possivel melhorar o conhecimento sobre ARCore e implementar o GPS, contudo não foi possivel implementar GPS com mapa. Além disso, foi possivel saber que existe o mapBox para estas ocasiões, que será utilizado na próxima semana.
 
-<b> Semana 17/10 - 22/10</b>
+<b>Semana 17/10 - 22/10 </b>
 - Objetivo: Estudar o código existente do projeto.
-  -  
   - 
-  -
-- Final:
-
-<b> Semana </b>
-- Objetivo: 
-  -  
   - 
-  -
-- Final:
-
-<b> Semana </b>
-- Objetivo: 
-  -  
   - 
-  -
-- Final:
-
+- Final: 
+  
+ <b>Semana </b>
+- Objetivo:
+  - 
+  - 
+  - 
+- Final: 
+- 
+ <b>Semana </b>
+- Objetivo:
+  - 
+  - 
+  - 
+- Final: 
 
 
 
