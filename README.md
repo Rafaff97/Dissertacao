@@ -1,12 +1,12 @@
 # Dissertação - Desenvolvimento de Jogos educativos em AR no âmbito do projeto EduCITY
-## A Bolsa destina-se a desenvolver tarefas no âmbito do projeto EduCITY, designadamente o estudo de soluções inovadoras de realidade aumentada, implicando a realização das seguintes tarefas:
-- estudar as características e a arquitetura da aplicação móvel existente; 
-- analisar a possibilidade de adicionar conteúdos de realidade aumentada em zonas sem marcadores (usando ARCore, ou outras ferramentas, para analisar uma zona outdoor e depois adicionar conteúdo); 
-- estudar mecanismos de criação de conteúdos em realidade aumentada por utilizadores sem competências técnicas; 
-- colaborar no desenvolvimento de conteúdos interativos de realidade aumentada;
-- desenvolvimento de métodos de visualização e interação; 
-- implementar e testar as funcionalidades desenvolvidas; 
-- avaliar, através de estudos com utilizadores, as características das funcionalidades desenvolvidas.
+- A Bolsa destina-se a desenvolver tarefas no âmbito do projeto EduCITY, designadamente o estudo de soluções inovadoras de realidade aumentada, implicando a realização das seguintes tarefas:
+  - estudar as características e a arquitetura da aplicação móvel existente; 
+  - analisar a possibilidade de adicionar conteúdos de realidade aumentada em zonas sem marcadores (usando ARCore, ou outras ferramentas, para analisar uma zona outdoor e depois adicionar conteúdo); 
+  - estudar mecanismos de criação de conteúdos em realidade aumentada por utilizadores sem competências técnicas; 
+  - colaborar no desenvolvimento de conteúdos interativos de realidade aumentada;
+  - desenvolvimento de métodos de visualização e interação; 
+  - implementar e testar as funcionalidades desenvolvidas; 
+  - avaliar, através de estudos com utilizadores, as características das funcionalidades desenvolvidas.
 
 ### Diário de trabalho:
 <b>Semana 26/09 - 02/10</b>
