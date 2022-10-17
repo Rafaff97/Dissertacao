@@ -9,7 +9,7 @@
   - avaliar, através de estudos com utilizadores, as características das funcionalidades desenvolvidas.
 
 ## Diário de trabalho:
-<b>Semana 26/09 - 02/10 </b>
+#### Semana 26/09 - 02/10
 - Objetivo: Fazer o tutorial de 18h sobre Unity+vuforia
 - Tutorial: https://www.udemy.com/course/develop-augmented-reality-book-ar-business-card-with-unity/
   - 28/09 - Tutorial
@@ -17,7 +17,7 @@
   - 30/09 - Tutorial
 - Final: Ficou a faltar 20% dos videos!
    
-<b>Semana 03/10 - 09/10 </b>
+#### Semana 03/10 - 09/10
 - Objetivo: Terminar o tutorial e começar outro focado em ARCore
 - Tutorial: https://www.udemy.com/course/develop-augmented-reality-book-ar-business-card-with-unity/
 - Tutorial: https://www.udemy.com/course/augmented_reality_with_unity/
@@ -26,7 +26,7 @@
   - 07/10 - Reunião com os bolseiros do projeto EduCity para discussão de possíveis recursos a integrar na app + Tutorial
 - Final: Primeiro tutorial finalziado!
    
-<b> Semana 10/10 - 16/10 </b>
+#### Semana 10/10 - 16/10
 - Objetivo: Implementar o GPS e estudar ARCore
 - Tutorial: https://www.coursera.org/learn/ar
 - Tutorial: https://www.udemy.com/course/augmented_reality_with_unity/
@@ -36,27 +36,29 @@
   - 14/10 - Reunião e foi possivel verificar que o segundo tutorial é bastante inutil. Visualização de videos sobre como implementar um mapa no unity.
 - Final: Foi possivel melhorar o conhecimento sobre ARCore e implementar o GPS, contudo não foi possivel implementar GPS com mapa. Além disso, foi possivel saber que existe o mapBox para estas ocasiões, que será utilizado na próxima semana.
 
-<b> Semana 17/10 - 22/10 </b>
-- Objetivo: Estudar o código existente do projeto.
-  - 
-  - 
-  - 
-- Final: 
-  
- <b>Semana </b>
+#### Semana 17/10 - 22/10
+- Objetivo: Estudar o código existente
+  - 19/10:
+  - 20/10:
+  - 21/10:
+- Final:..
+
+#### Semana
 - Objetivo:
   - 
   - 
   - 
-- Final: 
+- Final:...
 
- <b>Semana </b>
-
+#### Semana
 - Objetivo:
   - 
   - 
   - 
-- Final: 
+- Final: ...
+
+
+
 
 
 
