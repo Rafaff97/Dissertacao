@@ -37,6 +37,7 @@
 - Final: Foi possivel melhorar o conhecimento sobre ARCore e implementar o GPS, contudo não foi possivel implementar GPS com mapa. Além disso, foi possivel saber que existe o mapBox para estas ocasiões, que será utilizado na próxima semana.
 
 <b> Semana 17/10 - 22/10 </b>
+
 - Objetivo: Estudar o código existente do projeto.
   - 
   - 
@@ -44,6 +45,7 @@
 - Final: 
   
  <b>Semana </b>
+
 - Objetivo:
   - 
   - 
@@ -51,6 +53,7 @@
 - Final: 
 - 
  <b>Semana </b>
+
 - Objetivo:
   - 
   - 
