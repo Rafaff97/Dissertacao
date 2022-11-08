@@ -7,7 +7,119 @@ Este documento ilustra o envolvimento em atividades complementar à escolha do a
 - Data: 01/09 - 02/10
 - URL: https://www.udemy.com/course/develop-augmented-reality-book-ar-business-card-with-unity/
 - Racional da seleção: 4,5 (29,242 alunos)
-- Resumo: Neste tutorial foi possivel entender as diferentes formas de RA (Realidade Aumentada) e as aplicações que existem e as diferenças básicas entre Realidade Virtual e Realidade Aumentada. Além disso, foi desenvolvido 15 aplicativos com Unity e Vuforia o que por exemplo: detetavam vários alvos de imagem; com audio e animação; rastreamento de objetidos cilindricos e colocação de modelos digitais ao redor do cilindro; foi colocado um drone em tabanho real no AR; implementação em C#; utilização de botões virtuais; detecção de objetos reais utilizando rastreamento de objetos 3D e foi possivel sobrepor objetos digitais por cima dos objetos reais; foi possivel colocar objetos em tamanho real no mundo real utilizando o rastreamento sem marcadores e foi possivel reproduzir ou pausar videos no mundo real.
+- Resumo: Neste tutorial foi possivel entender as diferentes formas de RA (Realidade Aumentada) e as aplicações que existem e as diferenças básicas entre Realidade Virtual e Realidade Aumentada. Além disso, foi desenvolvido 15 aplicativos com Unity e Vuforia o que por exemplo: 
+  - Aplicação de Realidade Aumentada Um (ARONE)  
+
+ARONE é o primeiro aplicativo de realidade aumentada que você vai criar. Neste aplicativo você vai  
+
+Criar conta Vuforia  
+
+Criar chave de licença para o aplicativo AR  
+
+Carregar uma imagem como destino de imagem  
+
+Entenda o sistema de reconhecimento de imagem Vuforia  
+
+Solução para o problema do White ImageTarget no Vuforia versão 6.2.10  
+
+Baixe o modelo 3D da Unity Asset Store  
+
+Coloque o modelo 3D em cima do alvo da imagem  
+
+Baixe o banco de dados do aplicativo ARONE do Vuforia e ative-o dentro do Unity  
+  - 
+    - 
+      - 
+        - 
+          - 
+            - 
+Crie este aplicativo para Android e Ios  
+
+Aplicativo de livro de realidade aumentada (ARBOOK)  
+
+No aplicativo ARBook, primeiro criaremos alguns esboços em centímetros de um livro de desenho. Em seguida, faremos o download de alguns modelos 3D da loja de ativos e projetaremos o modelo 3D em cima de cada alvo de imagem.  
+
+Aplicativos como o ARBOOK podem ser implementados em escolas e faculdades para ensinar assuntos complicados de maneira divertida e fácil.  
+
+Botão virtual e cartão de visita de realidade aumentada (ARBusinessCard) 
+
+Nesta seção, explicarei primeiro o conceito de botão virtual no Vuforia e os seis fatores importantes que devem ser considerados ao trabalhar com o botão virtual.  
+
+Em seguida, você criará um aplicativo de botão virtual simples chamado AugmentedRealityVirtualButton, no qual você entenderá a importante função e interface necessárias para trabalhar com o botão virtual.  
+
+Após o aplicativo ARVirtualButton, criaremos um ARBusinessCard. No aplicativo ARBusinessCard, você primeiro colocará vários botões virtuais em cima de um alvo de imagem. Em seguida, mostrarei como reproduzir um arquivo de vídeo dentro do Unity, depois disso, escreveremos um script C# para reproduzir um vídeo específico quando o botão virtual de um vídeo específico for pressionado  
+
+Cartão de Realidade Aumentada
+
+Nesta seção, você aprenderá o processo de detectar vários alvos de imagem simultaneamente ao mesmo tempo. Você também adicionará um arquivo mp3 no aplicativo que começará a tocar apenas quando o cartão for aberto.
+
+
+
+AR baseado em sobreposição | Rastreamento de objetos -
+
+Nesta seção, você primeiro digitalizará um modelo 3D usando o aplicativo Android de digitalização 3D da Vuforia. Em seguida, importaremos este modelo dentro do Unity e em cima deste modelo sobreporemos um carro digital.
+
+
+
+Rastreamento de objetos cilíndricos
+
+Nesta seção você aprenderá a técnica para detectar um objeto cilíndrico. Depois de detectar o objeto cilíndrico, você criará uma bela vista cênica 3D ao redor do cilindro com a ajuda de aviões, nuvens de baixo poli e terrenos de baixo poli.
+
+
+
+Reconhecimento de nuvem Vuforia
+
+Nesta seção, você entenderá o funcionamento dos bancos de dados em nuvem Vuforia. Você criará um aplicativo chamado BookInfoAR. Este aplicativo digitalizará a capa do livro (marcador) e exibirá o painel de informações ao lado da capa do livro. As informações do marcador são armazenadas no banco de dados em nuvem.
+
+
+
+Planos Terrestres e MidAir
+
+Nesta seção, você criará sua primeira realidade aumentada sem marcadores usando o Vuforia Ground Plane. Com o recurso de plano de solo, colocaremos um modelo Lamborghini em tamanho real no mundo real. Em seguida, usando o recurso MidAir, colocaremos um drone no ar.
+
+
+
+Destino definido pelo usuário
+
+Nesta seção, você entenderá um recurso chamado recurso de destino definido pelo usuário do Vuforia Core Sample. Com a ajuda do recurso User Defined Target, podemos usar qualquer imagem como marcador.
+
+Então, depois de explicar o conteúdo do curso, espero vê-lo dentro deste curso de Realidade Aumentada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+detetavam vários alvos de imagem; com audio e animação; rastreamento de objetidos cilindricos e colocação de modelos digitais ao redor do cilindro; foi colocado um drone em tabanho real no AR; implementação em C#; utilização de botões virtuais; detecção de objetos reais utilizando rastreamento de objetos 3D e foi possivel sobrepor objetos digitais por cima dos objetos reais; foi possivel colocar objetos em tamanho real no mundo real utilizando o rastreamento sem marcadores e foi possivel reproduzir ou pausar videos no mundo real.
 Neste curso foi possivel aprender os fundamentos básicos e as técnicas de programação necessárias para criar aplicativos Androis de RA, além disso foi possivel 
 
 
