@@ -38,7 +38,7 @@
 
 #### Semana 17/10 - 22/10
 - Objetivo: Estudar o código existente
-  - 19/10 - Revisão do código existente + reunião (na reunião foi decidido que irei programar tudo de raiz, só reutilizarei alguns modelos de RA)
+  - 19/10 - Revisão do código existente + reunião (na reunião foi decidido que irei programar tudo de raiz, só reutilizarei alguns modelos(paineis) de RA)
   - 20/10 - Palestra de "Beyond the M.Sc. - the state of innovation" + Reunião com a empresa para discutir os mockups da app
   - 21/10 - Implementação do mapa no unity + implementação de menus dinâmicos
 - Final: Foi possível entender como os modelos estavam feitos para depois os refazer, além disso foi possivel entender e implementar como funcionam os mapas para o Unity.
@@ -52,12 +52,22 @@
 - Foi possivel verificar que este tutorial tem muitos erros na integração do mapBox com o unity, o que resultou em perda de tempo para resolver esses problemas!
 - Final: Foi possivel ter a aplicação do Pokemon GO implementada, contudo não foi possivel integrar o mapBox devido aos erros.
 
-#### Semana 31/10 - 04/11
-- Objetivo:
-  - 
-  - 
-  - 
-- Final: ...
+#### Semana 29/10 - 04/11
+- Objetivo: Implementar o modelo para RA
+  - 29/10 - Inicio da realização dos modelos
+  - 30/10 - Continuação da realização dos modelos
+  - 02/11 (Feriado) - Inicio da programação dos modelos
+  - 03/11 - Palestra sobre RVA + Reunião sobre os sensores
+  - 04/11 - Reunião e testes aos modelos de RA + realização de uma gravação no parque sobre a RA feita para ser utilizada para a inuaguração do livro + Criação de um programa para ilustrar o que será implementado depois (com GPS), ou seja, foi realizado um programa apartir de uma imagem que no futuro será o próprio edificio
+  - 05/11 - últimos ajustes ao modelo de RA
+- Final: Implementação do modelo dos paineis, agora é possivel reutilizar esse modelo para os vários modelos existentes
+
+#### Semana 07/11 - 11/11
+- Objetivo: Leitura de 2 papers
+  - 09/11 - 
+  - 10/11 -
+  - 11/11 - 
+- Final: 
 
 #### Semana
 - Objetivo:
@@ -114,16 +124,4 @@
   - 
   - 
 - Final: ...
-
-#### Semana
-- Objetivo:
-  - 
-  - 
-  - 
-- Final: ...
-
-
-
-
-
 
