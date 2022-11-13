@@ -67,6 +67,7 @@
   - 09/11 - Reunião sobre o evento (inauguração do livro) + preparativos para a inauguração do livro + leitura de um paper + implementação/realização dos videos das realidades já elaboradas
   - 10/11 - Leitura de um paper + preparativos para a palestra + palestra
   - 11/11 - Reunião + Leitura de outro paper
+  - 13/11 - Visualização de um tutorial de ARCore
 - Final: No final da semana foi possivel ter um documento com partes importantes dos dois artigos lidos.
 
 #### Semana
