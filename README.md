@@ -70,17 +70,17 @@
 - Final: No final da semana foi possivel ter um documento com partes importantes dos dois artigos lidos.
 
 #### Semana
-- Objetivo: Finalização da Realidade Aumentada dos menus (programação) ; Visualização de um tutorial de ARCore ;
-  - 
-  - 
-  - 
+- Objetivo: Finalização da Realidade Aumentada dos menus (programação) ; Visualização de um tutorial de ARCore
+  - 16/11 -
+  - 17/11 -
+  - 18/11 -
 - Final: ...
 
 #### Semana
-- Objetivo: Implementação de um mapa com GPS + AR ; testar com exemplos básicos de AR ; 
-  - 
-  - 
-  - 
+- Objetivo: Implementação de um mapa com GPS + AR ; testar com exemplos básicos de AR
+  - /11
+  - /11
+  - /11
 - Final: ...
 
 #### Semana
