@@ -64,20 +64,20 @@
 
 #### Semana 07/11 - 11/11
 - Objetivo: Leitura de 2 papers
-  - 09/11 - 
-  - 10/11 -
-  - 11/11 - 
-- Final: 
+  - 09/11 - Reunião sobre o evento (inauguração do livro) + preparativos para a inauguração do livro + leitura de um paper + implementação/realização dos videos das realidades já elaboradas
+  - 10/11 - Leitura de um paper + preparativos para a palestra + palestra
+  - 11/11 - Reunião + Leitura de outro paper
+- Final: No final da semana foi possivel ter um documento com partes importantes dos dois artigos lidos.
 
 #### Semana
-- Objetivo:
+- Objetivo: Finalização da Realidade Aumentada dos menus (programação) ; Visualização de um tutorial de ARCore ;
   - 
   - 
   - 
 - Final: ...
 
 #### Semana
-- Objetivo:
+- Objetivo: Implementação de um mapa com GPS + AR ; testar com exemplos básicos de AR ; 
   - 
   - 
   - 
