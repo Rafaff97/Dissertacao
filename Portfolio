@@ -1,151 +1,72 @@
 Este documento ilustra o envolvimento em atividades complementar à escolha do aluno, que envolva a participação, por exemplo conferências, workshops, cursos online, palestras, entre outros.
 
 #Tutorias (Cursos Online):
-## Esta secção apresenta os vários tutoriais que o aluno realizou durante a dissertação.
+## Esta secção apresenta os vários tutoriais que realizei durante a dissertação.
 
-- Nome da atividade: Curso online
-- Data: 01/09 - 02/10
+- Nome da atividade: Curso online - Udemy
+- Data: 01/09/2022 - 02/10/2022
 - URL: https://www.udemy.com/course/develop-augmented-reality-book-ar-business-card-with-unity/
-- Racional da seleção: 4,5 (29,242 alunos)
-- Resumo: Neste tutorial foi possivel entender as diferentes formas de RA (Realidade Aumentada) e as aplicações que existem e as diferenças básicas entre Realidade Virtual e Realidade Aumentada. Além disso, foi desenvolvido 15 aplicativos com Unity e Vuforia o que por exemplo: 
-  - Aplicação de Realidade Aumentada Um (ARONE)  
-
-ARONE é o primeiro aplicativo de realidade aumentada que você vai criar. Neste aplicativo você vai  
-
-Criar conta Vuforia  
-
-Criar chave de licença para o aplicativo AR  
-
-Carregar uma imagem como destino de imagem  
-
-Entenda o sistema de reconhecimento de imagem Vuforia  
-
-Solução para o problema do White ImageTarget no Vuforia versão 6.2.10  
-
-Baixe o modelo 3D da Unity Asset Store  
-
-Coloque o modelo 3D em cima do alvo da imagem  
-
-Baixe o banco de dados do aplicativo ARONE do Vuforia e ative-o dentro do Unity  
-  - 
-    - 
-      - 
-        - 
-          - 
-            - 
-Crie este aplicativo para Android e Ios  
-
-Aplicativo de livro de realidade aumentada (ARBOOK)  
-
-No aplicativo ARBook, primeiro criaremos alguns esboços em centímetros de um livro de desenho. Em seguida, faremos o download de alguns modelos 3D da loja de ativos e projetaremos o modelo 3D em cima de cada alvo de imagem.  
-
-Aplicativos como o ARBOOK podem ser implementados em escolas e faculdades para ensinar assuntos complicados de maneira divertida e fácil.  
-
-Botão virtual e cartão de visita de realidade aumentada (ARBusinessCard) 
-
-Nesta seção, explicarei primeiro o conceito de botão virtual no Vuforia e os seis fatores importantes que devem ser considerados ao trabalhar com o botão virtual.  
-
-Em seguida, você criará um aplicativo de botão virtual simples chamado AugmentedRealityVirtualButton, no qual você entenderá a importante função e interface necessárias para trabalhar com o botão virtual.  
-
-Após o aplicativo ARVirtualButton, criaremos um ARBusinessCard. No aplicativo ARBusinessCard, você primeiro colocará vários botões virtuais em cima de um alvo de imagem. Em seguida, mostrarei como reproduzir um arquivo de vídeo dentro do Unity, depois disso, escreveremos um script C# para reproduzir um vídeo específico quando o botão virtual de um vídeo específico for pressionado  
-
-Cartão de Realidade Aumentada
-
-Nesta seção, você aprenderá o processo de detectar vários alvos de imagem simultaneamente ao mesmo tempo. Você também adicionará um arquivo mp3 no aplicativo que começará a tocar apenas quando o cartão for aberto.
-
-
-
-AR baseado em sobreposição | Rastreamento de objetos -
-
-Nesta seção, você primeiro digitalizará um modelo 3D usando o aplicativo Android de digitalização 3D da Vuforia. Em seguida, importaremos este modelo dentro do Unity e em cima deste modelo sobreporemos um carro digital.
-
-
-
-Rastreamento de objetos cilíndricos
-
-Nesta seção você aprenderá a técnica para detectar um objeto cilíndrico. Depois de detectar o objeto cilíndrico, você criará uma bela vista cênica 3D ao redor do cilindro com a ajuda de aviões, nuvens de baixo poli e terrenos de baixo poli.
-
-
-
-Reconhecimento de nuvem Vuforia
-
-Nesta seção, você entenderá o funcionamento dos bancos de dados em nuvem Vuforia. Você criará um aplicativo chamado BookInfoAR. Este aplicativo digitalizará a capa do livro (marcador) e exibirá o painel de informações ao lado da capa do livro. As informações do marcador são armazenadas no banco de dados em nuvem.
-
-
-
-Planos Terrestres e MidAir
-
-Nesta seção, você criará sua primeira realidade aumentada sem marcadores usando o Vuforia Ground Plane. Com o recurso de plano de solo, colocaremos um modelo Lamborghini em tamanho real no mundo real. Em seguida, usando o recurso MidAir, colocaremos um drone no ar.
-
-
-
-Destino definido pelo usuário
-
-Nesta seção, você entenderá um recurso chamado recurso de destino definido pelo usuário do Vuforia Core Sample. Com a ajuda do recurso User Defined Target, podemos usar qualquer imagem como marcador.
-
-Então, depois de explicar o conteúdo do curso, espero vê-lo dentro deste curso de Realidade Aumentada
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-detetavam vários alvos de imagem; com audio e animação; rastreamento de objetidos cilindricos e colocação de modelos digitais ao redor do cilindro; foi colocado um drone em tabanho real no AR; implementação em C#; utilização de botões virtuais; detecção de objetos reais utilizando rastreamento de objetos 3D e foi possivel sobrepor objetos digitais por cima dos objetos reais; foi possivel colocar objetos em tamanho real no mundo real utilizando o rastreamento sem marcadores e foi possivel reproduzir ou pausar videos no mundo real.
-Neste curso foi possivel aprender os fundamentos básicos e as técnicas de programação necessárias para criar aplicativos Androis de RA, além disso foi possivel 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-https://www.udemy.com/course/augmented_reality_with_unity/
-https://www.coursera.org/learn/ar
-https://www.udemy.com/course/augmented_reality_with_unity/
-
-# Videos:
-https://www.youtube.com/watch?v=MeZcQguH124&ab_channel=GoogleDevelopers
+- Racional da seleção: 4,5/5 (+30000 alunos)
+- Resumo: Neste tutorial foi possivel compreender o que é a AR (Realidade Aumentada) e quais palataformas existem. De seguida, foi possivel entender quais diferenças existem entre Realidade Virtual e Realidade Aumentada. Após entender o que é e quais são as diferenças foi desenvolvido 15 aplicativos com Unity e Vuforia, que tinham como objetivo, por exemplo, aprender a utilizar o Vuforia, entender o sistema de reconhecimento de imagens, utilizar modelos 3D da Asset Store, posicionar modelos 3D sobre o alvo da imagem, ser possivel utilizar a aplicação no Android e Ios, aprender a utilizar diversos botões virtuais, entre outros. Este tutorial foi bastante enriquecedor pois permitiu-me aprender a programar em C#. Por fim, é importante evidenciar que o curso é muito bom, pois é explicado com detalhe e tem toda a informação necessária, como por exemplo, o que é o painel, objetos e outras definições. O único programa é que é alguns aspetos é demasiado repetitivo o que faz com que o curso seja demasiado grande e tem alguns videos com pequenos "erros" que sofreram alteração com o avanço da tecnologia.
+
+Nome da atividade: Curso online - Udemy
+Data(s): -
+URL (caso se aplique): https://www.udemy.com/course/augmented_reality_with_unity/
+Racional da seleção: 4.4/5 (+10000 alunos)
+Resumo: Neste tutorial foi possivel aprender a criar aplicativos móveis e interativos com funções de AR e como é que eles são executados em um dispositivo móvel. Além disso, foi possivel criar aplicativos com modelos 3D, animações, reconhecimento de imagens e como orientar os objetos no mundo virtual. Por fim, este curso é ótimo devido a estar muito bem organizado com todos os passos necessários, com um ótimo suporte a dúvidas e com uma explicação muito pormenorizada da programação. Embora eu não vá utilizar essa estrutura (Wikitude) para os meus próprios propósitos, ainda assim foi útil, pois a estrutura encapsula muito dos detalhes de utilizar a camera, objetos 3d, entre outros, e isso permitiu que o curso cobrisse os detalhes de AR sem se perder no manuseio do hardware.
+ 
+Nome da atividade: Curso online - Udemy
+Data(s): -
+URL (caso se aplique): https://www.udemy.com/course/build-location-based-augmented-reality-apps-with-mapbox/
+Racional da seleção: 3.7/5 (870 alunos)
+Resumo: Neste tutorial foi possivel entender as noções básicas do Mapbox e da AR, além disso foi possivel entender o que é e quais são as diferenças do ARCore e ARKit. De seguida, foi possivel entender como a programação orientada a objetos funciona e colocar em prática as noções aprendidas e desenvolver aplicativos AR. Depois deste tutorial foi possivel verificar que o último video do tutorial (que é o mais importante pois é a conexão do Unity + Mapbox) está cheio de erros e é impossivel existir esta conexão, o que provou que foi perda de tempo fazer este tutorial! Além disso, esperava que o tutorial fosse mais focado no mMapbox e em localizar o pokemon a partir de um banco de dados, no entanto o instrutor muda as configurações do Unity e não informa ou fala uma coisa e faz o contrário, entre outros problemas. Em suma, perda de tempo!
+
+Nome da atividade: Curso online - Coursera
+Data(s): -
+URL (caso se aplique): https://www.coursera.org/learn/ar
+Racional da seleção: 4.5/5 (3522 classificações)
+Resumo: Este tutorial ensina os fundamentos da AR e como criar uma experiencia de AR utilizando ARCore. É possivel aprender como identificar os diferentes tipos de AR, a utilizar ferramentas e plataformas no cenário AR, o que faz o AR parecer "real", casos de uso populares para AR, entre outras. Neste tutorial foi possivel compreender melhor o AR e o que o torna possivel, além disso, foi possivel entender quais hardwares e softwares tornam o AR possivel para smartphones, entre outros pontos bastante enriquecedores. Em suma, foi um ótimo curso que enriqueceu-me os conhecimentos.
+
+Nome da atividade: Video - Youtube
+Data(s): - 
+URL (caso se aplique): https://www.youtube.com/watch?v=PM5rl4z9mto&ab_channel=GoogleDevelopers
+Racional da seleção: -
+Resumo: Este video foi utilizado para saber quais novas novidades das ferramentas de desenvolvedor AR, incluindo o ARCore. Achei brutal as novas atualizações, especialmente as âncoras geoespaciais, simplesmente um avanço histórico na AR.
 
 
 #Palestras:
-Beyond the M.Sc. - the state of innovation
+## Esta secção apresenta as várias palestras que fui durante a dissertação.
+
+Nome da atividade: Palestra: Beyond the M.Sc. - the state of innovation
+Data(s): 24/11/2022
+URL (caso se aplique): -
+Racional da seleção: -
+Resumo: Nesta palestra foi possivel saber a história da empresa Ubiwhere e as várias áreas de interesse, por exemplo, energia, defesa, indústria, saúde e espaço. Em relação ao espaço eles apostavam na comunicações, isto é, caso as pessoas ficassem sem internet o objetivo é ter uma internet que está situada além do planeta terra.
+De seguida, aprendemos sobre que tipos de projetos e quais são, resumidamente o objetivo é construir uma cidade inteligente. Por fim, achei uma palestra muito aborrecida, pouca interativa e com demasiada informação sobre a empresa.  
+
+Nome da atividade: Palestra (Sessão zoom): Como cumprir as normas de apresentações escrita das teses e dissertações da UA
+Data(s): 24/10/2022
+URL (caso se aplique): -
+Racional da seleção: -
+Resumo: Durante esta sessão zoom foi possivel saber quais são as normas de apresentação escritas das dissertações da UA, isto é, como é que o documento deve ser escrito e quais normas é preciso respeitar. Além disso, foi possivel aprender como obter e onde procurar a informação que queremos. Por fim, esta sessão foi bastante enriquecedora porque foi possivel saber que as dissertações são enviadas para a Biblioteca, que existe uma análise e verificação do cumprimentos das normas e só depois é que conseguimos apresentar, entre outras coisas.
+
+Nome da atividade: 
+Data(s):
+URL (caso se aplique):
+Racional da seleção:
+Resumo:
+
+Nome da atividade: 
+Data(s):
+URL (caso se aplique):
+Racional da seleção:
+Resumo:
+
+
+
+
+
+#Palestras:
+
 RVA
 
