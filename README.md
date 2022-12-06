@@ -70,21 +70,27 @@
   - 13/11 - Visualização de um tutorial de ARCore
 - Final: No final da semana foi possivel ter um documento com partes importantes dos dois artigos lidos.
 
-#### Semana
+#### Semana 14/11 - 18/11
 - Objetivo: Finalização da Realidade Aumentada dos menus (programação) ; Visualização de um tutorial de ARCore
-  - 16/11 -
-  - 17/11 -
-  - 18/11 -
-- Final: ...
+  - 14/11 (noite) - Resolução de erros dos paineis;
+  - 15/11 (noite) - Finalização de erros dos paineis;
+  - 16/11 - Finalização a navegação entre os paineis e finalização dos idiomas + reunião
+  - 17/11 - Criação do json e inicio da implementação do json (glossário) + resolução de novos problemas
+  - 18/11 - Reunião + Inicio da modificação da AR, isto é, foi necessário remover os game objects estáticos e implementar tudo por código para ser 100% automático;
+  - 19/11 (noite) - Continuação da modificação da AR;
+  - 20/11 (manhã) - Finalização do painel sem objeto 3D.
+- Final: Foi possivel terminar em parte a AR devido a novos requisitos. Não foi possivel visualizar o tutorial (sem tempo).
 
-#### Semana
+#### Semana 21/11 - 25/11
 - Objetivo: Implementação de um mapa com GPS + AR ; testar com exemplos básicos de AR
-  - /11
-  - /11
-  - /11
+  - 21/11 -
+  - 22/11 -
+  - 23/11 -
+  - 24/11 -
+  - 25/11
 - Final: ...
 
-#### Semana
+#### Semana 28/11 - 02/12
 - Objetivo:
   - 
   - 
