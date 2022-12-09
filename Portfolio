@@ -37,7 +37,7 @@ Nome da atividade: Tutorial - Yotube
 Data(s): 08/12/2022 - 09/12/2022
 URL (caso se aplique): https://www.youtube.com/watch?v=o_z_Eb8Yh2g&list=PL6VJLOFcTt7awvyIGIbLLPOBrW6-Y1R-J&index=3
 Racional da seleção: Aprender ARCore.
-Resumo:
+Resumo: Neste tutorial é ensinado o básico do ARCore, como por exemplo detetar planos, rastrear imagens, colocar objetos no mundo real, rastreamento facial e planos filtrados. Com este tutorial foi possivel aprender o básico do ARCore e ver as diferenças que existem entre o Vuforia e ele. Todos os videos estão bem explicados e com todos os passos necessários, além disso, foi importante para colocar em prática os conhecimentos adquiridos nos videos no projeto para a dissertação.
 
 #Palestras:
 ## Esta secção apresenta as várias palestras que fui durante a dissertação.
