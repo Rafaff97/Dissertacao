@@ -83,52 +83,57 @@
 
 #### Semana 21/11 - 25/11
 - Objetivo: Implementação de um mapa com GPS + AR ; testar com exemplos básicos de AR
-  - 21/11 -
-  - 22/11 -
-  - 23/11 -
-  - 24/11 -
-  - 25/11
-- Final: ...
+  - 21/11 - Inicio da mudança da RA;
+  - 22/11 - Continuação da alteração da RA para ser 100% automático;
+  - 23/11 - Continuação da alteração da RA para ser 100% automático;
+  - 24/11 - Continuação da alteração da RA para ser 100% automático;
+  - 25/11 - Finalização do painel 100% automático (sem o painel com objetos 3D);
+- Final: O objetivo inicial teve de ser alterado por novos objetivos que foram compridos.
 
 #### Semana 28/11 - 02/12
-- Objetivo:
-  - 
-  - 
-  - 
-- Final: ...
+- Objetivo: Finalizar a RA do menu
+  - 30/11 - Inicio da implementação do painel com objetos 3D;
+  - 31/11 - Finalização do painel com objetos 3D;
+  - 01/12 - Correção de bugs + Leitura de papers;
+  - 02/12 - Correção de mais bugs + Leitura de papers + Finalização do menu;
+  - 03/12 - Leitura de papers;
+- Final: Objetivo cumprido.
 
-#### Semana
-- Objetivo:
-  - 
-  - 
-  - 
-- Final: ...
+#### Semana 05/12 - 09/12
+- Objetivo: Ler papers.
+  - 07/12 - Leitura de papers + Inicio do tutorial de ARCore;
+  - 08/12 - Leitura de papers + Finalização do tutorial de ARCore;
+  - 09/12 - Alteração do código para ser possivel ter imagens dinâmicos caso queiram (pedido pela coorientadora) + Leitura do paper;
+- Final: Objetivo cumprido.
 
-#### Semana
-- Objetivo:
-  - 
-  - 
-  - 
-- Final: ...
+#### Semana 12/12 - 16/12
+- Objetivo: Implementação do mapa no motor de jogos (unity)
+  - 12/12 - Leitura de papers + Inicio da implementação de mostrar o mapa no motos de jogos (Unity);
+  - 13/12 - Leitura de papers + Finalização da programação de mostrar o mapa com vários marcadores; 
+  - 14/12 - Implementação do código para saber a localização atual e a distância entre duas coordenadas;
+  - 15/12 - Resolução de problemas anteriores + Visualização de videos sobre âncoras (ARCore);
+  - 16/12 - Leitura de papers;
+- Final: Objetivo cumprido.
 
-#### Semana
-- Objetivo:
-  - 
-  - 
-  - 
-- Final: ...
+#### Semana 19/12 - 23/12
+- Objetivo: Finalizar a aplicação do GPS
+  - 21/12 - Implementação do GPS + âncoras;
+  - 22/12 - Leitura de papers;
+  - 23/12 - Finalização da aplicação do GPS + âncoras;
+- Final: Objetivos cumpridos.
 
-#### Semana
-- Objetivo:
-  - 
-  - 
-  - 
-- Final: ...
+#### Semana 26/12 - 30/12
+- Objetivo: Continuar a escrita da dissertação.
+  - 26/12 - Devido a problemas foi necessário alterar o código da aplicação anteriormente implementada (muito tempo de espera, etc);
+  - 27/12 - Escrita da dissertação + Leitura de papers;
+  - 28/12 - Escrita da dissertação + Leitura de papers;
+  - 29/12 - Escrita da dissertação;
+- Final: Objetivo cumprido.
 
-#### Semana
+#### Semana 02/01 - 06/01
 - Objetivo:
-  - 
-  - 
-  - 
+  - 04/01 - Escrita da dissertação (estado de arte);
+  - 05/01 -
+  - 06/01 -
 - Final: ...
 
