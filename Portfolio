@@ -39,6 +39,12 @@ URL (caso se aplique): https://www.youtube.com/watch?v=o_z_Eb8Yh2g&list=PL6VJLOF
 Racional da seleção: Aprender ARCore.
 Resumo: Neste tutorial é ensinado o básico do ARCore, como por exemplo detetar planos, rastrear imagens, colocar objetos no mundo real, rastreamento facial e planos filtrados. Com este tutorial foi possivel aprender o básico do ARCore e ver as diferenças que existem entre o Vuforia e ele. Todos os videos estão bem explicados e com todos os passos necessários, além disso, foi importante para colocar em prática os conhecimentos adquiridos nos videos no projeto para a dissertação.
 
+Nome da atividade: Curso Online - ARCore
+Data(s): 10/12/2022 - 20/12/2022
+URL (caso se aplique): https://www.udemy.com/course/master-arcore-in-unity-sdk-build-augmented-reality-apps/
+Racional da seleção: 3.8/5 (900 alunos)
+Resumo: Neste curso online é ensinado como criar aplicativos de realidade aumentada a partir do zero. Além disso, aprendi os fundamentos do ARCore, desde o rastreamento de movimento até à detecção de plano e estimativa de luz, fiz alguns exemplos de aplicações, como pilotar um drone em AR sem me preocuprar com colusões ou até construi o meu próprio Sistema Solar, entre outros exemplos. Além disso, aprendi a utilizar a luz e a medir distâncias com alta precisão. Este curso tem alguns problemas, por exemplo em alguns videos tem uma péssima explicação das etapas e muitas vezes não explica o código que escreveu e não aprofunda muito, apenas dá uma visão de como o ARCore funciona e ajuda a criar pequenas aplicações, mas consegui aprender os principais fundamentos.
+
 #Palestras:
 ## Esta secção apresenta as várias palestras que fui durante a dissertação.
 
@@ -77,11 +83,7 @@ Resumo:
 
 
 
-Nome da atividade: 
-Data(s):
-URL (caso se aplique):
-Racional da seleção:
-Resumo:
+
 
 
 Nome da atividade: 
