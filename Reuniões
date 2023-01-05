@@ -1,61 +1,60 @@
 
 # Reuniões com os orientadores
-É importante evidenciar que as quartas-feiras é com o orientador e sextas com a coorientadora e equipa EduCity.
+É importante evidenciar que as quartas-feiras são com o meu orientador e sextas com a minha coorientadora e equipa EduCity. Além disso, em todas as reuniões expliquei o que vou fazer nas semanas seguintes.
 
 #### Dia 06/10
-- Hora inicio: 10h
+- Hora início: 10h
 - Hora final: 11:50h
 - Pontos abordados:
-  - Ferramentas a utilizar, por exemplo Mendeley;
-  - Ferramentas que posso utilizar para procurar artigos;
-  - Quais artigos devo procurar e quais as tags que devo utilizar;
-  - Explicaram alguns pontos necessários no relatório da dissertação (por exemplo, a introdução, contexto, etx);
-  - Explicaçaram o que vou fazer na dissertação (está dividido em duas partes: location-base + ver o que existe e como funcionam as âncoras (sem marcadores) e criar interfaces fáceis de utilizar por utilizadores sem expriência);
+  - Ferramentas que vou utilizar, por exemplo Mendeley;
+  - Disseram onde posso utilizar procurar artigos;
+  - Quais artigos vou procurar e quais "tags" vou utilizar;
+  - Explicaram alguns pontos necessários no relatório da dissertação (por exemplo, a introdução, estado de arte, etc);
+  - Explicaram o que vou fazer na dissertação, ou seja, a minha dissertação está dividida em duas partes: location-base + ver o que existe e como funcionam as âncoras (sem marcadores) e criar interfaces fáceis de utilizar por utilizadores sem experiência;
   - Recomendaram ver vários tutoriais para aprender sobre as ferramentas que vou utilizar;
   - Deram uma breve explicação do projeto EduPark e como surgiu o EduCity.
 
 #### Dia 07/10
-- Hora inicio: 10h
+- Hora início: 10h
 - Hora final: 12h
 - Pontos abordados:
   - Reunião com os membros do projeto EduCity e expliquei o que vou fazer no projeto; 
   - Disse o que vou fazer durante a próxima semana.
 
 #### Dia 14/10
-- Hora inicio: 10h
+- Hora início: 10h
 - Hora final: 12h
 - Pontos abordados:
-  - Conversa com a empresa, em que ficou definido que eu ficava com toda a RA da aplicação;
-  - Discução de alguns conteúdos 3D que tenho de fazer (por exemplo, ter chegar perto de uma determinada localização e aparecer um conteúdo 3D, entre outras);
-  - Mostrar os exemplos de RA que já tinha implementado;
+  - Conversa com a empresa em que ficou definido que eu ficava com toda a RA da aplicação;
+  - Discussão de alguns conteúdos 3D que tenho de fazer (por exemplo, menu dinâmico);
+  - Mostrar os exemplos de RA que já tinha implementado para serem testados com React + extensões de unity;
   - Retirei algumas dúvidas sobre o scanner;
   - Foi-me fornecido o código da aplicação EduPark.
   
-  #### Dia 19/10
-- Hora inicio: 17h
+#### Dia 19/10
+- Hora início: 17h
 - Hora final: 18h
 - Pontos abordados:
   - Ficou definido que vou programar tudo e não vou reutilizar código existente;
-  - Discussão sobre os programas para eu implementar;
-  - Discussão sobre como vou programar os programas discutidos anteriormente;
+  - Discussão sobre os programas que vou implementar;
   - Discussão sobre os menus existentes que vão ser criados.
   
-  #### Dia 20/10
-- Hora inicio: 10h
+#### Dia 20/10
+- Hora início: 10h
 - Hora final: 12h
 - Pontos abordados:
   -  Reunião sobre os sensores (fui apenas por curiosidade).  
   
-  #### Dia 21/10
-- Hora inicio: 10h
+#### Dia 21/10
+- Hora início: 10h
 - Hora final: 12h
 - Pontos abordados:
   - Discussão com a empresa sobre os mockups criados;
   - Discussão sobre o que vou fazer para o projeto do mês;
   - Mostrei o conteúdo 3D que já tinha implementado;
   
-  #### Dia 11/11 
-- Hora inicio: 17h
+#### Dia 11/11 
+- Hora início: 17h
 - Hora final: 18h
 - Pontos abordados:
   - Discussão sobre os sensores;
@@ -63,18 +62,63 @@
   - Discussão sobre conteúdos do web-site;
   - Discussão sobre algumas dúvidas que retirei sobre o conteúdo da RA.
 
-    #### Dia 16/11
-- Hora inicio: 10h
+#### Dia 16/11
+- Hora início: 10h
 - Hora final: 12h
 - Pontos abordados:
-  -  
-  - 
-  -
+  - Mostrei o conteúdo da RA criada;
+  - Expliquei como fiz o conteúdo da RA e porque fiz assim;
+  - Retirei dúvidas sobre os conteúdos GPS + ARCore.
   
-      #### Dia 
-- Hora inicio: 10h
+#### Dia 17/11
+- Hora início: 17h
+- Hora final: 18h
+- Pontos abordados:
+  - Discussão com a empresa;
+  - Visualização dos mockups criados;
+  - Discussão dos próximos conteúdos RA que vão ser criados.
+  
+#### Dia 18/11
+- Hora início: 10h
 - Hora final: 12h
 - Pontos abordados:
-  -  
-  - 
+  - Discussão sobre o que falta acabar para o projeto do mês;
+  - Discussão sobre o conteúdo da RA.
+  
+#### Dia 25/11
+- Hora início: 10h
+- Hora final: 12h
+- Pontos abordados:
+  - Mostrei o que fiz;
+  - Discussão do trabalho para a próxima semana.
+  
+  #### Dia 07/12
+- Hora início: 17h
+- Hora final: 18h
+- Pontos abordados:
+  - Mostrei a RA feita;
+  - Discussão do trabalho para a próxima semana.
+  
+  #### Dia 16/12
+- Hora início: 10h
+- Hora final: 12h
+- Pontos abordados:
+  - Mostrei a RA feita e enviei para a empresa;
+  - Discussão do trabalho para a próxima semana.
+  
+  #### Dia 21/12
+- Hora início: 10h
+- Hora final: 12h
+- Pontos abordados:
+  - Mostrei a RA feita e enviei para a empresa (GPS + Menu dinâmico);
+  - Discussão do trabalho para a próxima semana;
+  - Retirei dúvidas sobre o pptx para a disciplina RVA;
+  - Retirei dúvidas sobre os textos para a disciplina PDE;
+  
+  #### Dia 
+- Hora início: 10h
+- Hora final: 12h
+- Pontos abordados:
+  -
+  -
   -
