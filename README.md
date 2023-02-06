@@ -130,10 +130,16 @@
   - 29/12 - Escrita da dissertação;
 - Final: Objetivo cumprido.
 
-#### Semana 02/01 - 06/01
-- Objetivo:
-  - 04/01 - Escrita da dissertação (estado de arte);
-  - 05/01 -
-  - 06/01 -
-- Final: ...
+#### Semana 02/01 - 03/02
+- Objetivo: Finalizar a escrita da pré-dissertação.
+  - 04/01 - Escrita da dissertação + Leitura de papers
+- Final: Objetivo cumprido.
+
+#### Semana 04/02 - 10/02
+- Objetivo: Inicio da implementação de um novo conteúdo 3D.
+  - 04/02 - Resolução de bugs no conteúdo 3D menu;
+  - 05/02 - Finalização da resolução de bugs do conteúdo 3D menu;
+  - 06/02 - Reunião com a empresa;
+  - 08/02 - 
+- Final: 
 
