@@ -135,11 +135,23 @@
   - 04/01 - Escrita da dissertação + Leitura de papers
 - Final: Objetivo cumprido.
 
-#### Semana 04/02 - 10/02
+#### Semana 04/02 - 11/02
 - Objetivo: Inicio da implementação de um novo conteúdo 3D.
   - 04/02 - Resolução de bugs no conteúdo 3D menu;
   - 05/02 - Finalização da resolução de bugs do conteúdo 3D menu;
   - 06/02 - Reunião com a empresa;
-  - 08/02 - 
-- Final: 
+  - 07/02 - Correção de bugs no 2ºmecanismo + implementação do 1º mecanismo na app da empresa;
+  - 08/02 - Correção de bugs do 1º mecanismo;
+  - 09/02 - Correção de bugs do 1º mecanismo;
+  - 10/02 - Reunião + Continuação da correção de bugs do 2º mecanismo;
+  - 11/02 - Continuação da implementação do novo conteúdo 3D;
+  - 12/02 - Problemas na implementação devido à falta de debug;
+- Final: Não foi possivel finalizar o objetivo.
+
+#### Semana 13/02 - 10/02
+- Objetivo: Finalização da implementação de um novo conteúdo 3D.
+  - 13/02 - Continuação da implementação;
+  - 14/02 - Finalização da implementação do novo conteúdo 3D que mostra informação de um JSON;
+  - 
+- Final: Não foi possivel finalizar o objetivo.
 
