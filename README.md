@@ -148,10 +148,55 @@
   - 12/02 - Problemas na implementação devido à falta de debug;
 - Final: Não foi possivel finalizar o objetivo.
 
-#### Semana 13/02 - 10/02
+#### Semana 13/02 - 17/02
 - Objetivo: Finalização da implementação de um novo conteúdo 3D.
   - 13/02 - Continuação da implementação;
   - 14/02 - Finalização da implementação do novo conteúdo 3D que mostra informação de um JSON;
-  - 
-- Final: Não foi possivel finalizar o objetivo.
+  - Restantes dias: corrigir o erro que crashava a app sempre que te instânciava a âncora geospacial.
+- Final: Foi possivel finalizar o objetivo.
 
+#### Semana 12/02 - 24/03
+- Objetivo: Integração do primeiro mecanismo na app.
+  - Resolução de erros e bugs + junção do primeiro mecanismo.
+- Final: Primeiro mecanismo implementado na app.
+
+#### Semana 
+- Objetivo: .
+  - 13/02 - 
+  - 14/02 - 
+  - 
+- Final:
+
+#### Semana 
+- Objetivo: .
+  - 13/02 - 
+  - 14/02 - 
+  - 
+- Final:
+
+#### Semana 
+- Objetivo: .
+  - 13/02 - 
+  - 14/02 - 
+  - 
+- Final:
+
+#### Semana 
+- Objetivo: .
+  - 13/02 - 
+  - 14/02 - 
+  - 
+- Final:
+#### Semana 
+- Objetivo: .
+  - 13/02 - 
+  - 14/02 - 
+  - 
+- Final:
+
+#### Semana 
+- Objetivo: .
+  - 13/02 - 
+  - 14/02 - 
+  - 
+- Final:
