@@ -155,19 +155,19 @@
   - Restantes dias: corrigir o erro que crashava a app sempre que te instânciava a âncora geospacial.
 - Final: Foi possivel finalizar o objetivo.
 
-#### Semana 12/02 - 24/03
+#### Semana 12/02 - 31/03
 - Objetivo: Integração do primeiro mecanismo na app.
   - Resolução de erros e bugs + junção do primeiro mecanismo.
+  - Resolução de bugs do 2º mecanismo;
+  - Escrita do relatório do 2º mecanismo;
 - Final: Primeiro mecanismo implementado na app.
 
-#### Semana 
-- Objetivo: .
-  - 13/02 - 
-  - 14/02 - 
-  - 
-- Final:
+#### Semana 03/04 - 07/04
+- Objetivo: Iniciar a implementação do terceiro mecanismo.
+  - Todos os dias estive a testar formas de implementar o terceiro mecanismo. Até ao momento sem sucesso por diversos fatores, como por exemplo, demorar demasiado tempo a comparar imagens, problemas de comparação, entre outros. 
+- Final: Não foi possivel implementar com sucesso.
 
-#### Semana 
+#### Semana 11/04 -
 - Objetivo: .
   - 13/02 - 
   - 14/02 - 
