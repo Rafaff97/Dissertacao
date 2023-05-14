@@ -167,12 +167,13 @@
   - Todos os dias estive a testar formas de implementar o terceiro mecanismo. Até ao momento sem sucesso por diversos fatores, como por exemplo, demorar demasiado tempo a comparar imagens, problemas de comparação, entre outros. 
 - Final: Não foi possivel implementar com sucesso.
 
-#### Semana 11/04 -
-- Objetivo: .
-  - 13/02 - 
-  - 14/02 - 
-  - 
-- Final:
+#### Semana 11/04 - 12/05
+- Desenvolvimento do mecanismo do Santo Antonio + correção de bugs no mecanismo do GPS;
+- Reunião com a emrpesa sobre o 2º mecanismo
+- O 2º mecanismo não vai ser utilizado na app por ser muito pesado e devido a limitações e problemas futuros que iria ter
+- Inicio de um novo mecanismo (inserção de objetos 3D + text ou audio) a partir de um formulári
+- Elaboração de um Poster para o DETI@STUDENTS
+- 
 
 #### Semana 
 - Objetivo: .
