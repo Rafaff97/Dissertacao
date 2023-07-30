@@ -175,29 +175,22 @@
 - Elaboração de um Poster para o DETI@STUDENTS
 - 
 
+#### Semana 12/05 - 30/06
+- Apresentação do poster
+- Criação do paper para a conferência
+- Finalização do mecanismo do Santo Antonio
+- Finalização do mecanismo do objeto 3D
+- Coloquei os 2 mecanismos na app EduCITY
+- Refiz a aplicação web do santo antonio mas sem exito devido as coordenadas não darem para o Unity e não consegui convertê-las
+- 
+
+#### Semana 01/07 -
+- Alteração da dissertação (coloquei + papers de 2023 e atualize a secção do estado de arte)
+- Alteração e criação dos textos para os mecanismos já criados
+- 
+  
 #### Semana 
-- Objetivo: .
-  - 13/02 - 
-  - 14/02 - 
-  - 
-- Final:
+- 
 
 #### Semana 
-- Objetivo: .
-  - 13/02 - 
-  - 14/02 - 
-  - 
-- Final:
-#### Semana 
-- Objetivo: .
-  - 13/02 - 
-  - 14/02 - 
-  - 
-- Final:
-
-#### Semana 
-- Objetivo: .
-  - 13/02 - 
-  - 14/02 - 
-  - 
-- Final:
+- 
